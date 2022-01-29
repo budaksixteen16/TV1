@@ -8,7 +8,21 @@
       <h2 style="text-align: center;"> Saluran TV1 RTM></h2>
       
     </h2>
-      دسيني اوق بوليه منونتون سالورن ت.ۏ.١ ر.ت.م.. اونتوق مليهت سموا سالورن، كتيق سناراي سألورن.   |    Di sini awak semua boleh menonton Sqluran TV1 RTM. Untuk melihat semua saluran, ketik Senarai Saluran.
+      <h1 class="fSatu"> دسيني اوق بوليه منونتون سالورن ت.ۏ.١ ر.ت.م.. اونتوق مليهت سموا سالورن، كتيق سناراي سألورن.   |    Di sini awak semua boleh menonton Sqluran TV1 RTM. Untuk melihat semua saluran, ketik Senarai Saluran.</h1>
+
+    
+
+    <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+     
+
+    .fSatu {
+
+      font-family: 'Amiri', serif;
+
+</style>
       <button name= "HANTAR MESEJ;">
       <link rel= "توكر كجاوي;" href="ejawi.com"/>
       <iframe width="450" height="250" src="https://rtmklik.rtm.gov.my/tv/1" title="TV1 player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
