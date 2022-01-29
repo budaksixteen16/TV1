@@ -4,8 +4,7 @@
   <body>
     
     <h2 style="text-align: center;">
-      
-      سالورن ت.ۏ.١ ر.ت.م.
+<p><span style="font-family: Amiri;">&nbsp;            سالورن ت.ۏ.١ ر.ت.م.</span></p>
       <h2 style="text-align: center;"> Saluran TV1 RTM></h2>
       
     </h2>
