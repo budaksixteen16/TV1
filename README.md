@@ -8,7 +8,7 @@
       <h2 style="text-align: center;"> Saluran TV1 RTM></h2>
       
     </h2>
-      <h1 class="fSatu"> دسيني اوق بوليه منونتون سالورن ت.ۏ.١ ر.ت.م.. اونتوق مليهت سموا سالورن، كتيق سناراي سألورن.   |    Di sini awak semua boleh menonton Sqluran TV1 RTM. Untuk melihat semua saluran, ketik Senarai Saluran.</h1>
+      <h1 class="fSatu" dir="rtl" style="text-align: right;"><span style="font-size: x-small;">دسيني اوق بوليه منونتون سالورن ت.ۏ.١ ر.ت.م.. اونتوق مليهت سموا سالورن، كتيق سناراي سألورن.   |    Di sini awak semua boleh menonton Sqluran TV1 RTM. Untuk melihat semua saluran, ketik Senarai Saluran.</span></h1>
 
     
 
