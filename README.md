@@ -27,6 +27,7 @@
       <link rel= "توكر كجاوي;" href="ejawi.com"/>
       <iframe width="450" height="250" src="https://rtmklik.rtm.gov.my/tv/1" title="TV1 player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>Jadual.></br> <br>
+    <h1 class="fSatu" dir="rtl" style="button-align: center;"><span style="font-size: x-small;"></span><a href="https://budaksixteen16.github.io/Senarai-Saluran-jawi"><button>📝 سناراي سالورن</button></a><a href="https://budaksixteen16.github.io/TV"><button>📻 براليه ک‍</button></a></div>
         
         
         <iframe width="250" height="450" src="https://rtmklik.rtm.gov.my/jadual/tv/1" title="Jadual"></iframe>
