@@ -128,7 +128,7 @@ h3 {
 
   <p class="Font"><a href="https://budaksixteen16.github.io/TV1"><button class="button button1">Video</button></a><a href="https://budaksixteen16.github.io/TV1-audio"><button class="button button2">Audio</button></a>
 
-    <iframe width="450" height="250" src="https://rtmklik.rtm.gov.my/tv/1" frameborder="0"></iframe></audio>
+    <iframe width="450" height="250" src="https://rtmklik.rtm.gov.my/tv/1" frameborder="0" allowfullscreen></iframe></audio>
 
     <div class="Font"><a href="https://budaksixteen16.github.io/Senarai-Saluran-jawi"><button class="button button3">Senarai Saluran</button></a></div>
 
