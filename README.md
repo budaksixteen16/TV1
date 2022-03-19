@@ -1,79 +1,195 @@
+
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <title>Hello, World!</title>
+  <title>1</title>
+      <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+  body {
+    background-image: url('https://raw.githubusercontent.com/budaksixteen16/test/master/neon.jpg');
+    color: white;
+    text-align: right;
+  }
+  </style>
 </head>
-<style>
-body {
-  background: blue;
-  color: white;
-  text-align: center;
-  font-family: Amiri;
-  font-size: 30px;
-}
-h1 {
-  color: white;
-  text-align: center;
-}
-p {
-  color: white;
-  text-align: center;
-  font-size: 30px;
-}
-div {
-  font-size: 16px;
-}
-h3 {
-  font-size: 16px;
-}
-.button {
-  background-color: red;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-.button1 {
-  width: 150px;
-}
-.button2 {
-  width: 150px;
-  background-color: white;
-  color: red;
-}
-.button3 {
-  width: 200px;
-  background-color: white;
-  color: blue;
-}
-.button4 {
-  width: 200px;
-  background-color: green;
-  color: white;
-  font-size: 16px;
-}
-</style>
 <body>
-  <h1>
-    Mewarnaimu
+  <div class="sidebar close" dir="rtl">
+    <div class="logo-details">
+      <i class='bx bxl-c-plus-plus'></i>
+      <span class="logo_name">BudakTV</span>
+    </div>
+    <ul class="nav-links">
+      <li>
+        <a href="https://budaksixteen16.github.io/rumah">
+          <i class='bx bx-home-alt' ></i>
+          <span class="link_name">رومه</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">Category</a></li>
+        </ul>
+      </li>
+      <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class='bx bx-tv' ></i>
+            <span class="link_name">سالورن ت.ۏ.</span>
+          </a>
+          <i class='bx bxs-chevron-down arrow' ></i>
+        </div>
+        <ul class="sub-menu">
+          <li><a class="link_name" href="#">Category</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/TV-Okey">0 ت.ۏ. اوكي</a></li>
+          <li><a class="Font" href="#">1 ت.ۏ.١</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/TV2">2 ت.ۏ.٢</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/TV3">3 ت.ۏ.٣</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/Sukan-RTM">4 سوكن ر.ت.م.</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/beritartm">5 بريتا ر.ت.م.</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/TV6-b-">6 ت.ۏ.٦</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/Didik-TV-KPM">7 ديديق ت.ۏ. ک.ڤ.م.</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/8TV">8 ٨.ت.ۏ.</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/TV9">9 ت.ۏ.٩</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/dramasangat">10 دراما ساڠت</a></li>
+        </ul>
+      </li>
+      <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class='bx bx-radio' ></i>
+            <span class="link_name">سالورن راديو</span>
+          </a>
+          <i class='bx bxs-chevron-down arrow' ></i>
+        </div>
+        <ul class="sub-menu">
+          <li><a class="link_name" href="#">Posts</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/suriafm">1 سوريا ف.م.</a></li>
+         <li><a class="Font" href="https://budaksixteen16.github.io/zayan">2 زاين #اينده_دهاتي</a></li>
+          <li><a class="Font" href="https://budaksixteen16.github.io/nasionalfm">3 ناسيونل.ف.م.</a></li>
+        </ul>
+       </li>
+      <li>
+        <a href="#">
+          <i class='bx bx-pie-chart-alt-2' ></i>
+          <span class="link_name">اناليسيس</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">Analytics</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">
+          <i class='bx bx-line-chart' ></i>
+          <span class="link_name">چرتا ڤراتوسن ڤنونتون \ ڤندڠر</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">Chart</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">
+          <i class='bx bx-calendar' ></i>
+          <span class="link_name">جدوال سالورن</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">Electronic Program Guide</a></li>
+        </ul>
+      </li>
+      <li>
+        <div class="iocn-link">
+          <a href="#"> 
+            <i class='bx bx-plug' ></i>
+            <span class="link_name">Plugins</span>
+          </a>
+          <i class='bx bxs-chevron-down arrow' ></i>
+        </div>
+        <ul class="sub-menu">
+          <li><a class="link_name" href="#">Plugins</a></li>
+          <li><a href="#">UI Face</a></li>
+          <li><a href="#">Pigments</a></li>
+          <li><a href="#">Box Icons</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="https://budaksixteen16.github.io/remote">
+          <i class='bx bx-compass' ></i>
+          <span class="link_name">الت كاولن جاءوه</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">Explore</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">
+          <i class='bx bx-history'></i>
+          <span class="link_name">سجاره</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">History</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">
+          <i class='bx bx-cog' ></i>
+          <span class="link_name">تتڤن</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">Setting</a></li>
+        </ul>
+      </li>
+      <li>
+    <div class="profile-details">
+     
+      <div class="name-job">
+       <i class='bx bx-message' ></i>
+      </div>
+      <i class='bx bx-phone' ></i>
+    </div>
+  </li>
+</ul>
+  </div>
+  <section class="home-section" dir="rtl">
+    <div class="home-content" dir="rtl">
+      <i class='bx bx-menu' dir="rtl"></i>
+      <span class="text" dir="rtl">ت.ۏ.١</span><span class="kepala">TV1</span>
+    </div>
+  </section>
+  <script>
+  let arrow = document.querySelectorAll(".arrow");
+  for (var i = 0; i < arrow.length; i++) {
+    arrow[i].addEventListener("click", (e)=>{
+   let arrowParent = e.target.parentElement.parentElement;//selecting main parent of arrow
+   arrowParent.classList.toggle("showMenu");
+    });
+  }
+  let sidebar = document.querySelector(".sidebar");
+  let sidebarBtn = document.querySelector(".bx-menu");
+  console.log(sidebarBtn);
+  sidebarBtn.addEventListener("click", ()=>{
+    sidebar.classList.toggle("close");
+  });
+  </script>
+  <h1 dir="rtl" class="Font">1
   </h1>
-  <p class="Font"><a href="https://budaksixteen16.github.io/TV1"><button class="button button1">Video</button></a><a href="https://budaksixteen16.github.io/TV1-audio"><button class="button button2">Audio</button></a>
-    <iframe width="350" height="200" src="https://rtmklik.rtm.gov.my/tv/1" frameborder="0" allowfullscreen></iframe></audio>
-    <div class="Font"><a href="https://budaksixteen16.github.io/Senarai-Saluran-jawi"><button class="button button3">Senarai Saluran</button></a></div>
-    <h2 class="Font">Jadual TV1</h2>
-    <div class="Font">06:00 Bacaan Yasin</div><div class="Font">06:30 Al Fiqh</div><div class="Font">06:45 Promo/PSA Covid-19</div><div class="Font">07:00 Berita Pagi Nasional</div><div class="Font">07:10 Salam Pagi</div><div class="Font">08:00 LANGSUNG: Selamat Pagi Malaysia</div><div class="Font">11:00 Tilawah Interaktif</div><div class="Font">12:00 Berita Tengah Hari</div><div class="Font">12:15 Promo/PSA Covid-19</div><div class="Font">12:30 Ulam Kerabu</div><div class="Font">13:00 Zikir/Promo</div><div class="Font">13:23 LANGSUNG: SOLAT JUMAAT</div>
-  <h3 class="Font"><b>Lihat senarai </b><a href="https://budaksixteen16.github.io/animation-loading"><button class="button button4">jadual lengkap</button></a><b> di sini.</b></h3>
-  <h2 class="Font"><b>Sedang bermain</b></h2>
-  <div class="Font"><b>LANGSUNG SEKARANG</b>: LANGSUNG: Selamat Pagi Malaysia</div><div class="Font"><b>Selepas ini</b>: Tilawah Interaktif</div></p>
+  <iframe width="350" height="250" src="https://rtmklik.rtm.gov.my/tv/1" frameborder="0" title="TV1" alt="rtmlivemychannel1tv" allowfullscreen></iframe>
 </body>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
-.Font {
+.text {
   font-family: 'Amiri', serif;
+}
+  .Font {
+    font-family: 'Amiri', serif;
+  }
+  .link_name {
+    font-family: 'Amiri', serif;
+  }
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.kepala {
+  font-family: 'Dancing Script', cursive;
+}
   </style>
+
 </html>
