@@ -113,7 +113,7 @@
       </li>
       <li>
         <a href="https://budaksixteen16.github.io/remote">
-          <i class='bx bx-compass' ></i>
+          <i class='bx bx-grid-alt' ></i>
           <span class="link_name">الت كاولن جاءوه</span>
         </a>
         <ul class="sub-menu blank">
